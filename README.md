@@ -18,9 +18,7 @@
 
 ![](https://lljj-xxxx.oss-cn-hongkong.aliyuncs.com/vue-json-schema-form.gif)
 
-## 交流群
-
-QQ群：`146845780`，*反应不及时🙄*
+## 问题反馈
 
 **使用问题请优先通过 [Github issue](https://github.com/lljj-x/vue-json-schema-form/issues) 提交**
 
